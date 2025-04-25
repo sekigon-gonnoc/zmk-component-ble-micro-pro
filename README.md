@@ -8,6 +8,6 @@ manifest:
     - name: sekigon-gonnoc
       url-base: https://github.com/sekigon-gonnoc
   projects:
-    - name: zmk-module-ble-micro-pro
+    - name: zmk-component-ble-micro-pro
       remote: sekigon-gonnoc
 ```
